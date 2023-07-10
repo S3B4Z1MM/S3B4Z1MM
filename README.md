@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me: Twitter @SeBaZimM
+- 📫 How to reach me: GitHub @S3B4Z1MM
 
 <!---
 S3B4Z1MM/S3B4Z1MM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
